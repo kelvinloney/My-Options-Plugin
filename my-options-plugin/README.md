@@ -38,9 +38,9 @@ This section describes how to install the plugin and get it working.
 
 ## Screenshots 
 
-![My Plugin Index](https://github.com/kelvinloney/MyPlugin/blob/master/screenshots/myplugin-index.jpg)<br>
-![My Plugin Login](https://github.com/kelvinloney/MyPlugin/blob/master/screenshots/myplugin-login.jpg)<br>
-![My Plugin Settings](https://github.com/kelvinloney/MyPlugin/blob/master/screenshots/myplugin-settings.jpg)
+![My Options Installed](https://github.com/kelvinloney/My-Options-Plugin/blob/main/my-options-plugin/screenshots/installed.png)<br>
+![My Options Settings](https://github.com/kelvinloney/My-Options-Plugin/blob/main/my-options-plugin/screenshots/settings.png)<br>
+![My Options Index](https://github.com/kelvinloney/My-Options-Plugin/blob/main/my-options-plugin/screenshots/index.png)
 
 
 
